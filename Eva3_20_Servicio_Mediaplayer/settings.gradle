@@ -1,0 +1,2 @@
+rootProject.name = "Eva3_20_Servicio_Mediaplayer"
+include ':app'
